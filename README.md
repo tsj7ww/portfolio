@@ -1,11 +1,7 @@
 # Portfolio
 <p align="center"><img src="./artifacts/fancy.png" alt="headshot" width="100"/></p>
 
-Hi, my name is Trevor Jordan and I am currently an analyst at Capital One. I have experience in analytics and strategy within marketing and operations teams across finance and IT industries. I graduated from UVA with a bachelor's degree in economics focusing on quantitative analysis. Primarily I code in Python, SQL, and Shell but I like to learn new technology and languages when possible.
-<br><br>
-
-## Resume
-I am currently an analyst at Capital One. Graduated from UVA with a degree in economics. You can find my full resume [here](./artifacts/resume.pdf).
+Hi, my name is Trevor Jordan and I am currently working at Capital One focusing on loss mitigation strategy & analytics, with previous experience as a data analyst in operations and marketing. I studied economics at the University of Virginia, specializing in behavior psychology and applied statistics. Also, I enjoy learning about technology and computer science in my free time. You can find my full resume [here](./artifacts/resume.pdf).
 <br><br>
 
 ## Projects
@@ -17,7 +13,7 @@ Data Science project to xxx using Machine Learning.
 
 ### Housing
 Data Science project to xxx using Machine Learning.
-- Tags: xxx
+- Tags: Modeling, Prediction, Machine Learning
 - Repo: [link]()
 
 ### Indeed
