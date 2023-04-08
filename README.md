@@ -11,7 +11,7 @@ Independent project using various baseball data sources to predict game outcomes
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem Solving, Event Simulation
 - **Technology**: Python, XG Boost (Gradient Boosted Decision Tree) Model, Neural Network
 - **Resources**: , [Data Preprocessing](https://github.com/tsj7ww/baseball-public/blob/main/preprocessing.ipynb), [GitHub Repo](https://github.com/tsj7ww/baseball-public)
-  - In order to retain a competitive advantage, only part of the code is public - the remaining code is stored in a private repo
+  - In order to retain a competitive advantage, only part of the code is public - the remaining code is stored in a private repo.
 
 ### KWEST Trip Matcher
 KWEST is an annual trip put on by the Kellogg School of Business at Northwestern University. A variety of destinations are offered and students are asked to submit their top 10 location preferences. Based off this information, students are assigned to trips in groups of ~10 with intentionally diverse backgrounds and experiences. Using this information, I created a Python program that takes student trip preferences & background info and generates a list of trips with assigned students. Parameters enable the user to make tweaks to the program to best fit the user's needs, and a K-Nearnest Neighbors model is used to estimate preference of trips not stated by the student.
