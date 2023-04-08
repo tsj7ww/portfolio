@@ -11,7 +11,7 @@ Data Science & Risk Management project using various baseball data sources to pr
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem Solving, Event Simulation
 - **Technology**: Python, XG Boost (Gradient Boosted Decision Tree) Model, Neural Network
 - **Resources**: [Data Preprocessing](https://github.com/tsj7ww/baseball-public/blob/main/preprocess.ipynb), [ReadMe](https://github.com/tsj7ww/baseball-public#readme), [GitHub Repo](https://github.com/tsj7ww/baseball-public)
-  - In order to retain a competitive advantage, only part of the code is public - the remaining code is stored in a private repo.
+  - *In order to retain a competitive advantage, only part of the code is public - the remaining code is stored in a private repo.*
 - **Timeline**: January 2023 - Present
 
 ### KWEST Trip Matcher
