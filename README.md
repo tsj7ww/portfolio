@@ -6,8 +6,7 @@ Hi, my name is Trevor Jordan and I currently work at Capital One focusing on los
 
 ## Projects
 
-### Baseball Bets
-*January 2023 -- Present*
+### Baseball Bets<br>*January 2023 -- Present*
 
 Data Science & Risk Management project using various baseball data sources to predict game outcomes and make informed sports bets. Predictions are generated using statistical models in a two-tiered approach - one at the game level, and another using a Discrete Event Simulator. The predictions are then compared against market odds to identify games with the highest potential ROI from placing bets. This is assessed across all games in a given time period, and bets are placed strategically in order to minimize downside risk while still realizing significant profits.
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem Solving, Event Simulation
