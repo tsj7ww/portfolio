@@ -1,7 +1,7 @@
 # Portfolio
 <p align="center"><img src="./artifacts/fancy.png" alt="headshot" width="100"/></p>
 
-Hi, my name is Trevor Jordan and I currently work at Capital One focusing on loss mitigation strategy & analytics, with previous experience as a data analyst in operations and marketing. I studied economics at the University of Virginia, specializing in behavioral psychology and applied statistics. Also, I enjoy learning about technology and computer science in my free time.
+Hi, my name is Trevor Jordan and I currently work at Capital One focusing on credit loss mitigation strategy & analytics, with previous experience as a data analyst in operations and marketing. I studied economics at the University of Virginia, specializing in behavioral psychology and applied statistics. Also, I enjoy learning about technology and computer science in my free time.
 <br><br>
 
 ## Projects
