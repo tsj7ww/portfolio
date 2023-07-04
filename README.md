@@ -10,7 +10,7 @@ Hi, my name is Trevor Jordan and I currently work at Capital One focusing on cre
 A general example of how to solve a business problem using SQL for data analysis, Python for modeling and forecasting, Spreadsheets for "last mile" analysis, and Slides for communication. This example is intended to be a template and is abstracted from a specific business problem or data source.
 - **Skills**: Problem-Solving, Modeling, Forecasting, Data Analysis
 - **Technology**: Python, SQL, Spreadsheets, Slides, Tableau / Supersets
-- **Resources**: [Python Notebook](https://github.com/tsj7ww/forecasting-project-example/blob/main/forecast.ipynb), [ReadMe](https://github.com/tsj7ww/forecasting-project-example#readme), [GitHub Repo](https://github.com/tsj7ww/forecasting-project-example), [Spreadsheet](https://docs.google.com/spreadsheets/d/1KJBd-zpc2gZI93pMJvnsY_2ZJCvYJRBJqxDbFsoImQQ/view), [Slides](https://docs.google.com/presentation/d/1U5Q1xymjvismPd2KMjnDvXPI_mlwpd_YMgJxAqaRUDs/view)
+- **Resources**: [Forecast](https://github.com/tsj7ww/forecasting-project-example/blob/main/forecast.ipynb), [Spreadsheet](https://docs.google.com/spreadsheets/d/1KJBd-zpc2gZI93pMJvnsY_2ZJCvYJRBJqxDbFsoImQQ/view), [Slides](https://docs.google.com/presentation/d/1U5Q1xymjvismPd2KMjnDvXPI_mlwpd_YMgJxAqaRUDs/view), [ReadMe](https://github.com/tsj7ww/forecasting-project-example#readme), [GitHub Repo](https://github.com/tsj7ww/forecasting-project-example)
 - **Timeline**: June 2023
 
 ### Baseball Bets
