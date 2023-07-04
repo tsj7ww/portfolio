@@ -6,6 +6,13 @@ Hi, my name is Trevor Jordan and I currently work at Capital One focusing on cre
 
 ## Projects
 
+### Forecasting Project Example
+A general example of how to solve a business problem using SQL for data analysis, Python for modeling and forecasting, Spreadsheets for "last mile" analysis, and Slides for communication. This example is intended to be a template and is abstracted from a specific business problem or data source.
+- **Skills**: Problem-Solving, Modeling, Forecasting, Data Analysis
+- **Technology**: Python, SQL, Spreadsheets, Slides, Tableau / Supersets
+- **Resources**: [Python Notebook](https://github.com/tsj7ww/forecasting-project-example/blob/main/forecast.ipynb), [ReadMe](https://github.com/tsj7ww/forecasting-project-example#readme), [GitHub Repo](https://github.com/tsj7ww/forecasting-project-example)
+- **Timeline**: June 2023
+
 ### Baseball Bets
 Data Science & Risk Management project using various baseball data sources to predict game outcomes and make informed sports bets. Predictions are generated using statistical models in a two-tiered approach - one at the game level, and another using a Discrete Event Simulator. The forecasts are then compared against market odds to identify games with the highest potential ROI from placing bets. This is assessed across all games in a given period, and bets are placed strategically to minimize downside risk while still realizing significant profits.
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem-Solving, Event Simulation
@@ -13,13 +20,6 @@ Data Science & Risk Management project using various baseball data sources to pr
 - **Resources**: [Data Preprocessing](https://github.com/tsj7ww/baseball-public/blob/main/preprocess.ipynb), [ReadMe](https://github.com/tsj7ww/baseball-public#readme), [GitHub Repo](https://github.com/tsj7ww/baseball-public)
   - *Note: To retain a competitive advantage, only part of the code is public - the remaining code is stored in a private repo.*
 - **Timeline**: January 2023 - Present
-
-### Forecasting Project Example
-A general example of how to solve a business problem using SQL for data analysis, Python for modeling and forecasting, Spreadsheets for "last mile" analysis, and Slides for communication. This example is intended to be a template and is abstracted from a specific business problem or data source.
-- **Skills**: Problem-Solving, Modeling, Forecasting, Data Analysis
-- **Technology**: Python, SQL, Spreadsheets, Slides, Tableau / Supersets
-- **Resources**: [Python Notebook](https://github.com/tsj7ww/forecasting-project-example/blob/main/forecast.ipynb), [ReadMe](https://github.com/tsj7ww/forecasting-project-example#readme), [GitHub Repo](https://github.com/tsj7ww/forecasting-project-example)
-- **Timeline**: June 2023
 
 ### KWEST Trip Matcher
 KWEST is an annual trip by the Kellogg School of Business at Northwestern University. A variety of destinations are offered and students are asked to submit their top 10 location preferences. Based on this information, students are assigned to trips in groups of ~10 with intentionally diverse backgrounds and experiences. Using these requirements, I created a Python program that takes student trip preferences & background info and generates a list of trips with assigned students. Parameters enable the user to tweak the program to best fit the user's needs, and a K-Nearnest Neighbors model is used to estimate the preference of trips not stated by the student.
