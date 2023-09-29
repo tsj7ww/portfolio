@@ -6,13 +6,6 @@ Hi, my name is Trevor Jordan and I currently work at Capital One focusing on cre
 
 ## Projects
 
-### Forecasting Project Example
-A general example of how to solve a business problem using SQL for data analysis, Python for modeling and forecasting, Spreadsheets for "last mile" analysis, and Slides for communication. This example is intended to be a template and is abstracted from a specific business problem or data source.
-- **Skills**: Problem-Solving, Modeling, Forecasting, Data Analysis
-- **Technology**: Python, SQL, Spreadsheets, Slides, Tableau / Supersets
-- **Resources**: [Forecast](https://github.com/tsj7ww/forecasting-project-example/blob/main/forecast.ipynb), [Spreadsheet](https://docs.google.com/spreadsheets/d/1KJBd-zpc2gZI93pMJvnsY_2ZJCvYJRBJqxDbFsoImQQ/view), [Slides](https://docs.google.com/presentation/d/1U5Q1xymjvismPd2KMjnDvXPI_mlwpd_YMgJxAqaRUDs/view), [ReadMe](https://github.com/tsj7ww/forecasting-project-example#readme), [GitHub Repo](https://github.com/tsj7ww/forecasting-project-example)
-- **Timeline**: June 2023
-
 ### Baseball Bets
 Data Science & Risk Management project using various baseball data sources to predict game outcomes and make informed sports bets. Predictions are generated using statistical models in a two-tiered approach - one at the game level, and another using a Discrete Event Simulator. The forecasts are then compared against market odds to identify games with the highest potential ROI from placing bets. This is assessed across all games in a given period, and bets are placed strategically to minimize downside risk while still realizing significant profits.
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem-Solving, Event Simulation
