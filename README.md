@@ -13,16 +13,16 @@ Data Science & Risk Management project using various baseball data sources to pr
 - **Resources**: [Data Preprocessing](https://github.com/tsj7ww/baseball-public/blob/main/preprocess.ipynb), [ReadMe](https://github.com/tsj7ww/baseball-public#readme), [GitHub Repo](https://github.com/tsj7ww/baseball-public)
 - **Timeline**: January 2023 - Present
 
-### KWEST Trip Matcher
-KWEST is an annual trip by the Kellogg School of Business at Northwestern University. A variety of destinations are offered and students are asked to submit their top 10 location preferences. Based on this information, students are assigned to trips in groups of ~10 with intentionally diverse backgrounds and experiences. Using these requirements, I created a Python program that takes student trip preferences & background info and generates a list of trips with assigned students. Parameters enable the user to tweak the program to best fit the user's needs, and a K-Nearnest Neighbors model is used to estimate the preference of trips not stated by the student.
+### Predictive Modeling
+Using housing data from Kaggle, I created a machine-learning regression model to predict housing prices based on residence attributes.
 - **Skills**: Problem-Solving, Modeling, Data Analysis
-- **Technology**: Python, KNN Model, Random Forest Decision Tree Model, Hospital-Resident Matching Algorithm
-- **Resources**: [Python Notebook](https://github.com/tsj7ww/kwest/blob/main/main.ipynb), [ReadMe](https://github.com/tsj7ww/kwest#readme), [GitHub Repo](https://github.com/tsj7ww/kwest)
+- **Technology**: Python, Regression Modeling, SkLearn
+- **Resources**: [Python Notebook](https://github.com/tsj7ww/housing/blob/main.ipynb), [ReadMe](https://github.com/tsj7ww/housing#readme), [GitHub Repo](https://github.com/tsj7ww/housing)
 - **Timeline**: February 2022 - April 2022
 
-### Job Posting Scraper
-Data Engineering project to scrape relevant job postings from Indeed.com and send them out in an auto-generated email. AWS Events kicks off a Lambda function of Python code that uses Beautiful Soup to scrape info from Indeed based on user-inputted criteria. The results are stored in a DynamoDB database for future reference and then sent out via email using a predefined template. Shell automates the creation and configuration of AWS resources, and logging used in combination with AWS SNS enables effective monitoring and maintenance of the process.
-- **Skills**: Data Engineering, Process Management, Problem-Solving
-- **Technology**: Python, Shell, AWS (Lambda, IAM, DynamoDB, S3, Events, SNS, SES), Concurrency, RegEx
-- **Resources**: [Python Code](https://github.com/tsj7ww/indeed/blob/main/src/main.py), [Shell Build File](https://github.com/tsj7ww/indeed/blob/main/build.sh), [ReadMe](https://github.com/tsj7ww/indeed#readme), [GitHub Repo](https://github.com/tsj7ww/indeed)
-- **Timeline**: September 2020 - December 2020
+### Time Series Forecasting
+Data Analytics project that uses Facebook's Prophet package to create a SARIMAX model to forecast COVID-19 cases.
+- **Skills**: Data Analytics, Forecasting, Time Series, Problem-Solving
+- **Technology**: Python, Prophet, ARIMA model
+- **Resources**: [Python Code](https://github.com/tsj7ww/covid19/blob/time_series.py), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
+- **Timeline**: January 2021 - March 2021
