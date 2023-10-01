@@ -17,12 +17,12 @@ Data Science & Risk Management project using various baseball data sources to pr
 Using housing data from Kaggle, I created a machine-learning regression model to predict housing prices based on residence attributes.
 - **Skills**: Problem-Solving, Modeling, Data Analysis
 - **Technology**: Python, Regression Modeling, SkLearn
-- **Resources**: [Python Notebook](https://github.com/tsj7ww/housing/blob/main.ipynb), [ReadMe](https://github.com/tsj7ww/housing#readme), [GitHub Repo](https://github.com/tsj7ww/housing)
+- **Resources**: [Python Notebook](https://github.com/tsj7ww/housing/blob/main/main.ipynb), [ReadMe](https://github.com/tsj7ww/housing#readme), [GitHub Repo](https://github.com/tsj7ww/housing)
 - **Timeline**: February 2022 - April 2022
 
 ### Time Series Forecasting
 Data Analytics project that uses Facebook's Prophet package to create a SARIMAX model to forecast COVID-19 cases.
 - **Skills**: Data Analytics, Forecasting, Time Series, Problem-Solving
 - **Technology**: Python, Prophet, ARIMA model
-- **Resources**: [Python Code](https://github.com/tsj7ww/covid19/blob/time_series.py), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
+- **Resources**: [Python Code](https://github.com/tsj7ww/covid19/blob/main/time_series.py), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
 - **Timeline**: January 2021 - March 2021
