@@ -23,6 +23,6 @@ Using housing data from Kaggle, I created a machine-learning regression model to
 ### Time Series Forecasting
 Data Analytics project that uses Facebook's Prophet package to create a SARIMAX model to forecast COVID-19 cases.
 - **Skills**: Data Analytics, Forecasting, Time Series, Problem-Solving
-- **Technology**: Python, Prophet, ARIMA model
-- **Resources**: [Python Notebook](https://github.com/tsj7ww/covid19/blob/main/time_series.ipynb), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
+- **Technology**: Python, Prophet, SkTime, ARIMA model
+- **Resources**: [Python Notebook (Prophet)](https://github.com/tsj7ww/covid19/blob/main/prophet.ipynb), [Python Notebook (SkTime)](https://github.com/tsj7ww/covid19/blob/main/sktime.ipynb), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
 - **Timeline**: January 2021 - March 2021
