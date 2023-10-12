@@ -15,14 +15,14 @@ Data Science & Risk Management project using various baseball data sources to pr
 
 ### Predictive Modeling
 Using housing data from Kaggle, I created a machine-learning regression model to predict housing prices based on residence attributes.
-- **Skills**: Problem-Solving, Modeling, Data Analysis
+- **Skills**: Prediction, Modeling, Problem-Solving, Data Analysis
 - **Technology**: Python, Regression Modeling, SkLearn
 - **Resources**: [Python Notebook](https://github.com/tsj7ww/housing/blob/main/main.ipynb), [ReadMe](https://github.com/tsj7ww/housing#readme), [GitHub Repo](https://github.com/tsj7ww/housing)
 - **Timeline**: February 2022 - April 2022
 
 ### Time Series Forecasting
-Data Analytics project that uses Facebook's Prophet package to create a SARIMAX model to forecast COVID-19 cases.
-- **Skills**: Data Analytics, Forecasting, Time Series, Problem-Solving
-- **Technology**: Python, Prophet, SkTime, ARIMA model
-- **Resources**: [Python Notebook (Prophet)](https://github.com/tsj7ww/covid19/blob/main/prophet.ipynb), [Python Notebook (SkTime)](https://github.com/tsj7ww/covid19/blob/main/sktime.ipynb), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
+Data Science project that uses a variety of Time Series models (SARIMA, Prophet, Theta) to forecast COVID-19 cases in Richmond, VA.
+- **Skills**: Prediction, Forecasting, Time Series, Data Analytics, Problem-Solving
+- **Technology**: Python, Prophet, SkTime, SARIMA model
+- **Resources**: [Python Notebook (Prophet)](https://github.com/tsj7ww/covid19/blob/main/prophet.ipynb), [Python Notebook (PmdArima)](https://github.com/tsj7ww/covid19/blob/main/pmdarima.ipynb), [Python Notebook (SkTime)](https://github.com/tsj7ww/covid19/blob/main/sktime.ipynb), [ReadMe](https://github.com/tsj7ww/covid19#readme), [GitHub Repo](https://github.com/tsj7ww/covid19)
 - **Timeline**: January 2021 - March 2021
