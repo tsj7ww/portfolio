@@ -1,7 +1,7 @@
 # Portfolio
 <p align="center"><img src="./assets/profile_pic.png" alt="profile_pic" width="100"/></p>
 
-Hi, my name is Trevor Jordan and I currently work at a Bank focusing on Strategy & Analytics, with previous experience as a Data Analyst in Operations and Marketing. I studied economics at the University of Virginia, specializing in behavioral psychology and applied statistics. Also, I enjoy learning about technology and computer science in my free time.
+Hi, my name is Trevor Jordan and I currently work at a Bank focusing on Strategy & Analytics, with previous experience as a Data Analyst in Operations and Marketing. I studied Economics at UVA and concentrated in both Industrial Organization and Public Policy, with lots of coursework in Psychology, Statistics, and Math. I also enjoy learning about technology and computer science in my free time.
 <br><br>
 
 ## Projects
