@@ -17,7 +17,7 @@ Data Science & Risk Management project using various baseball data sources to pr
 Using housing data from Kaggle, I created a machine-learning regression model to predict housing prices based on residence attributes.
 - **Skills**: Prediction, Modeling, Problem-Solving, Data Analysis
 - **Technology**: Python, Regression Modeling, SkLearn
-- **Resources**: [Python Notebook](./projects/housing/blob/main/main.ipynb), [ReadMe](./projects/housing/README.md), [Project Folder](./projects/housing)
+- **Resources**: [Python Notebook](./projects/housing/main.ipynb), [ReadMe](./projects/housing/README.md), [Project Folder](./projects/housing)
 - **Timeline**: February 2022 - April 2022
 
 ### Time Series Forecasting
