@@ -10,14 +10,14 @@ Hi, my name is Trevor Jordan and I currently work at a Bank focusing on Strategy
 Data Science & Risk Management project using various baseball data sources to predict game outcomes and make informed sports bets. Predictions are generated using statistical models in a two-tiered approach - one at the game level, and another using a Discrete Event Simulator. The forecasts are then compared against market odds to identify games with the highest potential ROI from placing bets. This is assessed across all games in a given period, and bets are placed strategically to minimize downside risk while still realizing significant profits.
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem-Solving, Event Simulation
 - **Technology**: Python, XG Boost (Gradient Boosted Decision Tree) Model, Neural Network
-- **Resources**: [Data Preprocessing](./projects/baseball/preprocess.ipynb), [ReadMe](./projects/baseball/README.md), [Project Folder](./projects/baseball)
+- **Resources**: [Data Preprocessing](./projects/baseball/preprocess.ipynb), [ReadMe](./projects/baseball#readme), [Project Folder](./projects/baseball)
 - **Timeline**: January 2023 - Present
 
 ### Predictive Modeling
 Using housing data from Kaggle, I created a machine-learning regression model to predict housing prices based on residence attributes.
 - **Skills**: Prediction, Modeling, Problem-Solving, Data Analysis
 - **Technology**: Python, Regression Modeling, SkLearn
-- **Resources**: [Python Notebook](./projects/housing/main.ipynb), [ReadMe](./projects/housing/README.md), [Project Folder](./projects/housing)
+- **Resources**: [Python Notebook](./projects/housing/main.ipynb), [ReadMe](./projects/housing#readme), [Project Folder](./projects/housing)
 - **Timeline**: February 2022 - April 2022
 
 ### Time Series Forecasting
