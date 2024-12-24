@@ -24,5 +24,5 @@ Using housing data from Kaggle, I created a machine-learning regression model to
 Data Science project that uses a variety of Time Series models (SARIMA, Prophet, Theta) to forecast COVID-19 cases in Richmond, VA.
 - **Skills**: Prediction, Forecasting, Time Series, Data Analytics, Problem-Solving
 - **Technology**: Python, Prophet, SkTime, SARIMA model
-- **Resources**: [Python Notebook (Prophet)](./projects/covid/prophet.ipynb), [Python Notebook (PmdArima)](./projects/covid/pmdarima.ipynb), [Python Notebook (SkTime)](./projects/covid/sktime.ipynb), [ReadMe](./projects/covid/README.md), [Project Folder](./projects/covid19)
+- **Resources**: [Python Notebook (Prophet)](./projects/covid/prophet.ipynb), [Python Notebook (PmdArima)](./projects/covid/pmdarima.ipynb), [Python Notebook (SkTime)](./projects/covid/sktime.ipynb), [ReadMe](./projects/covid/README.md), [Project Folder](./projects/covid)
 - **Timeline**: January 2021 - March 2021
