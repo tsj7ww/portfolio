@@ -2,7 +2,7 @@
 <p align="center"><img src="./assets/casual.png" alt="Profile Picture" height="200"></p>
 <!-- width="140"  -->
 
-Hi 👋 my name is Trevor Jordan and I currently work in strategy & analytics at a bank, with previous experience as a data analyst in operations and marketing. I studied economics at UVA and concentrated in both industrial organization and public policy, with additional coursework in statistics, math, and psychology. I also enjoy learning about technology and computer science in my free time.
+Hi 👋 my name is Trevor Jordan and I currently work in strategy & analytics at a bank, with previous experience as a data analyst in operations and marketing. I studied economics at UVA with additional coursework in statistics, math, and psychology. I also enjoy learning about technology and computer science in my free time.
 <br><br>
 
 ## Projects
