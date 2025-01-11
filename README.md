@@ -1,5 +1,6 @@
 # Portfolio
-<p align="center"><img src="./assets/san_fran.png" alt="Profile Picture" width="140" height="150" style="border-radius: 50%;"></p>
+<p align="center"><img src="./assets/san_fran.png" alt="Profile Picture" height="180" style="border-radius: 50%;"></p>
+<!-- width="140"  -->
 
 Hi, my name is Trevor Jordan and I currently work in strategy & analytics at a bank, with previous experience as a data analyst in operations and marketing. I studied economics at UVA and concentrated in both industrial organization and public policy, with lots of coursework in psychology, statistics, and math. I also enjoy learning about technology and computer science in my free time.
 <br><br>
