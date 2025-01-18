@@ -2,7 +2,7 @@
 <p align="center"><img src="./assets/casual.png" alt="Profile Picture" height="150"></p>
 <!-- width="140"  -->
 
-Hi 👋 my name is Trevor and I currently work in strategy & analytics at a bank, with previous experience as a data analyst in operations and marketing. I studied economics at UVA with additional coursework in statistics, math, and psychology. I also enjoy learning about technology and computer science in my free time.
+Hi 👋 my name is Trevor and I currently work in strategy & analytics at a bank, with previous experience as a data analyst in operations and marketing. I studied economics at UVA with additional coursework in statistics and mathematics. I also enjoy learning about technology and computer science in my free time.
 <br><br>
 
 ## Projects
