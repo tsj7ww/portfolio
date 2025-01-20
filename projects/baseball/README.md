@@ -5,11 +5,11 @@ Data Science & Risk Management project using various baseball data sources to pr
 #### <ins>Skills</ins>
 - Statistical Modeling, Prediction, Risk Management, Problem Solving, Monte Carlo Simulation
 
-
 #### <ins>Technology</ins>
 - Python, GBM Decision Tree
 
+> [!NOTE]
+> This repo only contains a subset of the entire code in this project
 
-<sub><sup>**Notes**
-- This repo only contains a subset of the entire code in this project
-- This project is a work in progress</sub></sup>
+> [!WARNING]
+> This project is a work in progress
