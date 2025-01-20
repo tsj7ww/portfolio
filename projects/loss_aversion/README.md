@@ -1,11 +1,11 @@
 # Loss Aversion Analysis
 
-Data Science & Risk Management project using various baseball data sources to predict game outcomes and make informed sports bets. Predictions are generated using statistical models in a two-tiered approach - one at the game level, and another using a Discrete Event Simulator. The predictions are then compared against market odds to identify games with the highest potential ROI from placing bets. This is assessed across all games in a given time period, and bets are placed strategically in order to minimize downside risk while still realizing significant profits.
+This research investigates loss aversion in financial markets through quantitative analysis of stock market data. Loss aversion, a cornerstone of behavioral economics established by Kahneman and Tversky (1979), suggests that people weigh losses more heavily than equivalent gains. This project seeks to identify and measure this phenomenon in stock market behavior using high-frequency trading data.
 
 **Notes**:
   - This repo only contains a subset of the entire code in this project
   - This project is a work in progress
 <br>
 
-- **Skills**: Statistical Modeling, Prediction, Risk Management, Problem Solving, Event Simulation
-- **Technology**: Python, XG Boost (Gradient Boosted Decision Tree) Model, Neural Network
+- **Skills**: Behavioral Economics, Statistical Modeling, Bayesian Statistics
+- **Technology**: Python, SkLearn
