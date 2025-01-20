@@ -38,5 +38,5 @@ for project in "${projects[@]}"; do
     process_readme "$project"
 done
 
-head -n -2 README.md > README.md
+head -n -2 README.md > temp.md && mv temp.md README.md
 echo "---" >> README.md
