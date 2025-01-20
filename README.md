@@ -21,9 +21,9 @@ Data Science & Risk Management project using various baseball data sources to pr
 - Python, GBM Decision Tree
 
 
-**Notes**
+<sub><sup>**Notes**
 - This repo only contains a subset of the entire code in this project
-- This project is a work in progress
+- This project is a work in progress</sub></sup>
 
 
 ### [Loss Aversion Analysis](./projects/loss_aversion)
