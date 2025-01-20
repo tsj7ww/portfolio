@@ -25,7 +25,7 @@ Data Science & Risk Management project using various baseball data sources to pr
 
 > [!WARNING]
 > This project is a work in progress.
-
+<br>
 
 ### [Loss Aversion Analysis](./projects/loss_aversion)
 This research investigates loss aversion in financial markets through quantitative analysis of stock market data. Loss aversion, a cornerstone of behavioral economics established by Kahneman and Tversky (1979), suggests that people weigh losses more heavily than equivalent gains. This project seeks to identify and measure this phenomenon in stock market behavior using high-frequency trading data.
@@ -42,7 +42,7 @@ This research investigates loss aversion in financial markets through quantitati
 
 > [!WARNING]
 > This project is a work in progress.
-
+<br>
 
 ### [AutoML](./projects/auto_ml)
 Automated machine learning web application, for no-code autoML functionality.
@@ -64,6 +64,6 @@ Automated machine learning web application, for no-code autoML functionality.
 
 > [!WARNING]
 > This project is a work in progress.
-
+<br>
 
 ---
