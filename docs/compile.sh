@@ -11,7 +11,7 @@ projects=(
 if [ -f docs/intro.md ]; then
     cat docs/intro.md > README.md
     echo "" >> README.md
-    echo "<br>" >> README.md
+    # echo "<br>" >> README.md
     echo "" >> README.md
 fi
 
