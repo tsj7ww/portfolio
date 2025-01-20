@@ -11,6 +11,7 @@ projects=(
 if [ -f docs/intro.md ]; then
     cat docs/intro.md > README.md
     echo "" >> README.md
+    echo "<br>" >> README.md
 fi
 
 process_readme() {
@@ -37,4 +38,5 @@ for project in "${projects[@]}"; do
     process_readme "$project"
 done
 
+head -n -2 README.md > README.md
 echo "---" >> README.md
