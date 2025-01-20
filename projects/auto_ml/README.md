@@ -8,4 +8,10 @@ Automated machine learning web application, for no-code autoML functionality.
 <br>
 
 - **Skills**: Machine Learning, Risk Management, Problem Solving, Project Management, Full Stack Web Dev
-- **Technology**: NextJS (frontend), FastAPI (backend), Postgres + Redis + MongoDB + MinIO (databases), Kubeflow + ML Flow (ML infra), Docker + Kubernetes + Terraform (infra), Elasticsearch + Grafana + Prometheus + Filebeat (monitoring)
+- **Technology**:
+- Frontend: NextJS
+- Backend: FastAPI
+- Databases: Postgres + Redis + MongoDB + MinIO
+- ML Infra: Kubeflow + ML Flow
+- Infra: Docker + Kubernetes + Terraform
+- Monitoring: Elasticsearch + Grafana + Prometheus + Filebeat
