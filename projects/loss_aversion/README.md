@@ -5,7 +5,7 @@ Data Science & Risk Management project using various baseball data sources to pr
 **Notes**:
   - This repo only contains a subset of the entire code in this project
   - This project is a work in progress
-
+<br>
 
 - **Skills**: Statistical Modeling, Prediction, Risk Management, Problem Solving, Event Simulation
 - **Technology**: Python, XG Boost (Gradient Boosted Decision Tree) Model, Neural Network
