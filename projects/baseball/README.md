@@ -7,5 +7,5 @@ Data Science & Risk Management project using various baseball data sources to pr
 **Technology**: Python, GBM Decision Tree
 
 **Notes**:
-    - This repo only contains a subset of the entire code in this project
-    - This project is a work in progress
+- This repo only contains a subset of the entire code in this project
+- This project is a work in progress
