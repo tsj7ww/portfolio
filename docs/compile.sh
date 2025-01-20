@@ -26,7 +26,7 @@ process_readme() {
         remaining_content=$(tail -n +2 "$dir/README.md")
         printf "${prefix}[${title}](./$dir)" >> README.md
         echo "$remaining_content" >> README.md
-        echo "" >> README.md
+        echo "<br>" >> README.md
         echo "" >> README.md
     else
         echo "Warning: README.md not found in $dir" >&2
