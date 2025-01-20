@@ -1,0 +1,42 @@
+name: Compile README
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for modified files
+        
+    - name: Make script executable
+      run: chmod +x docs/compile.sh
+      
+    - name: Compile README files
+      run: ./docs/compile.sh
+      
+    - name: Commit changes
+      # Only commit and push if we're on main branch
+      if: github.ref == 'refs/heads/main'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update compiled README [skip ci]"
+        
+    - name: Push changes
+      # Only push if we're on main branch
+      if: github.ref == 'refs/heads/main'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
+        branch: ${{ github.ref }}
